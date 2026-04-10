@@ -1,3 +1,6 @@
+# API Keys
+Please bring your own OpenAI API key or Google AI Studio API key for the workshop.
+
 # Running via GitHub Codespace
 GitHub Codespaces lets you run this project in a fully configured cloud environment directly in your browser — no local setup required.
 Once the labs are made available, you can open this repo in Codespace as follows:

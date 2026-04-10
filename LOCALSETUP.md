@@ -1,7 +1,11 @@
 ## Requirement #1
 Make sure you have a GitHub account! You will need one if you are running your labs inside of GitHub Codespace.
 Running the labs inside Codespace ensures that you do not need any tool setup (but it also means you cannot
-run the workshops using a local LLM). If you want to run the notebooks locally, you will need the following required tools:
+run the workshops using a local LLM). 
+
+**Please bring your own OpenAI API key or Google AI Studio API key for the workshop.**
+
+If you want to run the notebooks locally, you will need the following required tools:
 
 ## Required tools IF running locally
 If you wish to work on this workshop on your own machine, you will need to install the following tools. Please
