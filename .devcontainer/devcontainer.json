@@ -1,0 +1,14 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:3.13-bullseye",
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"ms-python.python",
+                "ms-toolsai.jupyter"
+			]
+		}
+	},
+    "postCreateCommand": "bash .devcontainer/install-dependencies.sh"
+}
